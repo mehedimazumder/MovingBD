@@ -1,0 +1,74 @@
+[
+  {
+    "Email": "Lola@gmail.com",
+    "Gender": "female",
+    "DateOfBirth": "1994-02-21",
+    "Password": "password",
+    "KnownAs": "Lola",
+    "Created": "2017-08-02",
+    "City": "Dhaka",
+    "Country": "Bangladesh",
+    "Mobile": "01715671234",
+    "MemberAs": "Driver"
+  },
+  {
+    "Email": "Dorothy@gmail.com",
+    "Gender": "female",
+    "DateOfBirth": "1979-04-19",
+    "Password": "password",
+    "KnownAs": "Dorothy",
+    "Created": "2017-01-21",
+    "City": "Deseret",
+    "Country": "Mongolia",
+    "Mobile": "01715331234",
+    "MemberAs": "Driver"
+  },
+  {
+    "Email": "Reba@gmail.com",
+    "Gender": "female",
+    "DateOfBirth": "1984-12-05",
+    "Password": "password",
+    "KnownAs": "Reba",
+    "Created": "2017-06-24",
+    "City": "Hannasville",
+    "Country": "Poland",
+    "Mobile": "01515671234",
+    "MemberAs": "Customer"
+  },
+  {
+    "Email": "Roy@yahoo.com",
+    "Gender": "male",
+    "DateOfBirth": "1993-08-21",
+    "Password": "password",
+    "KnownAs": "Roy",
+    "Created": "2017-08-03",
+    "City": "Davenport",
+    "Country": "Tuvalu",
+    "Mobile": "01815671234",
+    "MemberAs": "Driver"
+  },
+  {
+    "Email": "Duke@outlook.com",
+    "Gender": "male",
+    "DateOfBirth": "1996-09-07",
+    "Password": "password",
+    "KnownAs": "Duke",
+    "Created": "2017-07-07",
+    "City": "Inkerman",
+    "Country": "Canada",
+    "Mobile": "01715610234",
+    "MemberAs": "Driver"
+  },
+  {
+    "Email": "Lloyd@gmail.com",
+    "Gender": "male",
+    "DateOfBirth": "1957-03-07",
+    "Password": "password",
+    "KnownAs": "Lloyd",
+    "Created": "2017-08-22",
+    "City": "Loma",
+    "Country": "Paraguay",
+    "Mobile": "0132315671234",
+    "MemberAs": "Customer"
+  }
+]
